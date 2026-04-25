@@ -19,7 +19,7 @@ Focused on writing clean code and creating useful, scalable projects ✨
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://aahilworks.github.io)
 * ✉️  You can contact me at [techokids123@gmail.com](mailto:techokids123@gmail.com)
-* 🚀  I'm currently working on [Github Companion App](http://https://aahilworks.github.io/gitmate.github.io/)
+* 🚀  I'm currently working on [Github Companion App](http://aahilworks.github.io/gitmate.github.io/)
 * 🧠  I'm currently learning new frameworks
 * 👥  I'm looking to collaborate on Gitmate
 * 💬  Ask me about Secretly Spider-Man… but let’s keep it between us
